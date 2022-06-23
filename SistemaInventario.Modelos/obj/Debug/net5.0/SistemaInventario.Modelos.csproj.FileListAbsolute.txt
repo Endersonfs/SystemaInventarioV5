@@ -1,0 +1,12 @@
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.deps.json
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.dll
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\bin\Debug\net5.0\SistemaInventario.Modelos.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.dll
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\refint\SistemaInventario.Modelos.dll
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\SistemaInventario.Modelos.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\Practicas\SistemaInventiarioV5\SystemaInventario\SistemaInventario.Modelos\obj\Debug\net5.0\ref\SistemaInventario.Modelos.dll
